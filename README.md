@@ -8,6 +8,10 @@ A personal collection of prompts I use across various tools and workflows.
 SKILLS/
 ├── Image - Director/
 │   └── v1/image-director.zip
+├── Story Reel Builder/
+│   └── story-reel-builder.zip
+├── Story Reel Writer/
+│   └── story-reel-writer.zip
 └── Video - Director/
     ├── v1/video-director.zip
     └── v2/video-director.zip
@@ -23,6 +27,22 @@ Prompt for directing and generating images with specific creative guidance.
 |---------|------|-------------|
 | v1 | `image-director.zip` | Initial release |
 
+### Story Reel Builder
+
+Part of the **Story Page** project. Prompt for assembling and structuring story reels from existing scenes or assets.
+
+| File | Description |
+|------|-------------|
+| `story-reel-builder.zip` | Initial release |
+
+### Story Reel Writer
+
+Part of the **Story Page** project. Prompt for writing and generating narrative content for story reels.
+
+| File | Description |
+|------|-------------|
+| `story-reel-writer.zip` | Initial release |
+
 ### Video - Director
 
 Prompt for directing and generating videos with structured creative control.
@@ -36,6 +56,8 @@ Prompt for directing and generating videos with structured creative control.
 
 | Date | Change |
 |------|--------|
+| 2026-06-21 | Added Story Reel Builder (Story Page) |
+| 2026-06-21 | Added Story Reel Writer (Story Page) |
 | 2025-06-20 | Added Image - Director v1 |
 | 2025-06-20 | Added Video - Director v2 |
 | 2025-06-19 | Added Video - Director v1 |
